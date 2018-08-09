@@ -11,6 +11,11 @@ manifest.jsonファイルの設定とServie Workerの登録処理を行うこと
 │
 ├ index.html .. 
 ├ src
+│　├ css
+│　├ images .. ホームスクリーンのアイコン画像
+│　├ js
+│　　├ app.js .. ServiceWorkerの登録処理を記述
+│　　├ material.min.js.js .. ページデザイン用
 ├ manifest.json .. ウェブアプリ マニュフェスト
 ├ sw.js .. Service Workerの実行ファイル
 ```
