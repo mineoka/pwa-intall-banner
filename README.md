@@ -1,6 +1,5 @@
 # pwa-intall-banner
-PWAの最初構成ファイル。  
-manifest.jsonファイルの設定とServie Workerの登録処理を行うことで、ホームスクリーンへのアイコン追加をすることができるプログラム  
+PWAの最小構成ファイル。manifest.jsonファイルの設定とServie Workerの登録処理を行うことで、ホームスクリーンへのアイコン追加をすることができるプログラム  
 
 ## 前提条件
 - LocalhostまたはHTTPS経由での配信が必要となります。
