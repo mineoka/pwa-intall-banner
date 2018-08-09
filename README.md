@@ -20,4 +20,5 @@ PWAの最小構成ファイル。manifest.jsonファイルの設定とServie Wor
 ```
 ## 動作概要
 - index.htmlを表示したタイミングで、Service Workerの登録が行われます。
-- 正常に登録ができればconsoleログに「Service worker registered」と表示されます
+- 正常に登録ができればconsoleログに「Service worker registered」と表示されます。
+- インストールバナー表示条件の詳細は、[こちら](https://developers.google.com/web/fundamentals/app-install-banners/)をご参照ください。
